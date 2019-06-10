@@ -1,5 +1,4 @@
-d=int(input())
-e=int(input())
+d,e=int(input()),int(input())
 print(d**e)
 
 
