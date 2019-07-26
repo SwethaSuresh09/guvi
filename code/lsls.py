@@ -10,4 +10,4 @@ for y in range(1,los,2):
     d1=d1+mos[y]
 resu.append([b00,d1])
 for x in resu:
-    print(x[0] if x[0]>x[1]) else x[1])
+    print(x[0] if x[0]>x[1] else x[1])
